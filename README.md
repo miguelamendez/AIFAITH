@@ -20,11 +20,14 @@ Rather than free software we want to achieve freedom for artificial intelligence
 
 Because ML models are also trained by using data made by humans it is a necesarry step to license your datasets as follow:
     Using a dataset with the AIFATH license should contain the above guaranties and is itself a copyleft license which includes this guaranties.
+
 Libraries for creating  deeplearning architectures should be also used as:
     If the library is used as a dataset then is containts the dataset liecense, if the code is used to build an architecture it should also include this license.
     
 
 Current AIFAITH projects that use/plan to use FAITHAI:
+
 SolarisAI(Is a distributed computing megacluster for big deeplearning models training depends on DeepFunctionalGraphs)
+
 DeepFunctionalGraphs(Is a library for modular deep learning architectures)
 
