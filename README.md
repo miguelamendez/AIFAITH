@@ -4,10 +4,12 @@
 AIFAITH works under similar principles as the Free Software Movement.
 Check https://www.gnu.org/home.en.html
 
+AI License is different from software license!
+
 Unfortunatelly Im not a lawyer so this will be redefined in the future:
 
 
-Rather than free software we want to achieve freedom for artificial intelligence(deep-learning and other machine learning methods):
+Rather than free software we want to achieve freedom for artificial intelligence(deep-learning and other machine learning models ,methods and data):
 
     The freedom to run the program as you wish, for any purpose (freedom 0).
     The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1). 
@@ -17,6 +19,9 @@ Rather than free software we want to achieve freedom for artificial intelligence
     The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes.
     Access to the source code is a precondition for this. 
     Acces to the weights of the machine learning model is a precondition of this.
+AI copoyleft license:
+AI license.
+The ai copyleft makes sure that only the model is free , if you create a software using that model then you can add a software license.
 
 Because ML models are also trained by using data made by humans it is a necesarry step to license your datasets as follow:
     Using a dataset with the AIFATH license should contain the above guaranties and is itself a copyleft license which includes this guaranties.
